@@ -2,7 +2,7 @@
 
 ## 📋 Sobre
  
-Disassembler é um programa capaz de converter um arquivo binário com instruções MARIE (linguagem de montagem) e imprimir na tela todas as instruções contidas no mesmo. 
+Disassembler é um programa que faz o inverso de um Assembler, convertendo um arquivo binário com instruções MARIE (linguagem de montagem) e exibindo na tela todas as instruções contidas no mesmo.
 
 O Trabalho foi feito inteiramente na linguagem de programação Java durante a disciplina de Organização de Computadores na UFMS.
 
